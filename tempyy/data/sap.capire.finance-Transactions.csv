@@ -1,0 +1,3 @@
+ID,date,account_ID,category_ID,categorytype_code,asset_ID,crossaccount_ID,amount,currency_code,createdAt,createdBy,modifiedAt,modifiedBy
+5000200101,2024-11-25T12:00:00Z,100500103,100500133,Income,,,3500,EUR,,,,
+5000200102,2024-11-28T12:00:00Z,100500103,100500123,Cost,,,-50,EUR,,,,

@@ -1,0 +1,6 @@
+code,name,descr
+Cost,Cost,All cost lines
+Income,Income, All Income lines
+Balance,Balance, Balance correction
+Investment,Investment, Both Invest and Sell
+Transfer,Transfer, Transfer between accounts

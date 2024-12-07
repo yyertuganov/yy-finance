@@ -1,0 +1,39 @@
+ID,title,type_code
+100500101,Opening Balance,Balance
+100500102,Balance Correction,Balance
+100500103,Books,Cost
+100500104,Clothing,Cost
+100500105,Computer and Software,Cost
+100500106,Dining,Cost
+100500107,Documentation,Cost
+100500108,Donations,Cost
+100500109,Education,Cost
+100500110,Employment Income Tax,Cost
+100500111,Entertainment,Cost
+100500112,Family Support,Cost
+100500113,Financial Service Charge,Cost
+100500114,Investment Fees,Cost
+100500115,Gifts,Cost
+100500116,Groceries,Cost
+100500117,Household,Cost
+100500118,Investment Income Tax,Cost
+100500119,Business Expenses,Cost
+100500120,Medical,Cost
+100500121,Misc.,Cost
+100500122,Personal Care,Cost
+100500123,Pets,Cost
+100500124,Professional Services,Cost
+100500125,Rent Paid,Cost
+100500126,"Salary, Wages paid",Cost
+100500127,Social Security,Cost
+100500128,Transportation,Cost
+100500129,Utilities/Internet/Cable/Phone,Cost
+100500130,"Vacation (Travel, Accomodation)",Cost
+100500131,Capital Gain,Income
+100500132,Dividend,Income
+100500133,Employment Gross Income,Income
+100500134,Gifts Received,Income
+100500135,Interest,Income
+100500136,Other Income,Income
+100500137,Investment,Investment
+100500138,Transfer,Transfer

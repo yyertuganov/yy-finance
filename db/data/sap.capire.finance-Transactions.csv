@@ -1,0 +1,3 @@
+ID,date,account_ID,category_ID,categorytype,asset_ID,crossaccount,amount,currency,createdAt,createdBy,modifiedAt,modifiedBy
+9583f982-d7df-4aad-ab26-301d4a157cd1,2024-11-25T12:00:00Z,1583f982-d7df-4aad-ab26-301d4a157cd3,2583f982-d7df-4aad-ab26-301d4a157cd2,Income,,,3500,EUR,,,,
+9583f982-d7df-4aad-ab26-301d4a157cd2,2024-11-28T12:00:00Z,1583f982-d7df-4aad-ab26-301d4a157cd3,2583f982-d7df-4aad-ab26-301d4a157cd1,Cost,,,-50,EUR,,,,
